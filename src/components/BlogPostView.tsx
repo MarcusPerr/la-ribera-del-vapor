@@ -1,11 +1,13 @@
 import type { BlogPost } from "../data/posts";
+import { posts } from "../data/posts";
 
 interface BlogPostViewProps {
   post: BlogPost;
   onBack: () => void;
+  onSelectPost: (post: BlogPost) => void;
 }
 
-export default function BlogPostView({ post, onBack }: BlogPostViewProps) {
+export default function BlogPostView({ post, onBack, onSelectPost }: BlogPostViewProps) {
   return (
     <div className="min-h-screen bg-dark-900 pt-20 fade-in">
       {/* Back Button */}
@@ -85,6 +87,34 @@ export default function BlogPostView({ post, onBack }: BlogPostViewProps) {
                   </p>
                 </div>
               </div>
+            </div>
+          </div>
+
+          {/* Related Articles */}
+          <div className="mt-12 pt-8 border-t border-white/10">
+            <h3 className="font-display text-xl font-bold text-white mb-6">Artículos Relacionados</h3>
+            <div className="grid sm:grid-cols-2 gap-4">
+              {posts
+                .filter((p) => p.id !== post.id && (p.category === post.category || p.featured))
+                .slice(0, 4)
+                .map((related) => (
+                  <button
+                    key={related.id}
+                    onClick={() => {
+                      onSelectPost(related);
+                      window.scrollTo({ top: 0, behavior: "smooth" });
+                    }}
+                    className="text-left bg-dark-700/50 rounded-xl border border-white/5 hover:border-primary-700/20 p-4 transition-all group"
+                  >
+                    <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-semibold text-white ${related.categoryColor} mb-2`}>
+                      {related.category}
+                    </span>
+                    <h4 className="font-display text-sm font-semibold text-white group-hover:text-primary-300 transition-colors line-clamp-2">
+                      {related.title}
+                    </h4>
+                    <p className="text-gray-500 text-xs mt-1">{related.readTime} · {related.date}</p>
+                  </button>
+                ))}
             </div>
           </div>
 

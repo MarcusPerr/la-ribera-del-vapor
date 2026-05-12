@@ -630,6 +630,290 @@ export const posts: BlogPost[] = [
 <blockquote>Consejo profesional: Enciende el vaporizador a temperatura máxima durante un minuto tras la limpieza para evaporar cualquier residuo de humedad antes del próximo uso.</blockquote>
     `,
   },
+  {
+    id: "como-usar-vaporizador-primera-vez",
+    title: "Cómo Usar un Vaporizador por Primera Vez: Guía Paso a Paso",
+    excerpt:
+      "Acabas de comprar tu primer vaporizador y no sabes por dónde empezar. Esta guía te lleva de la mano desde el unboxing hasta tu primera calada perfecta.",
+    category: "Guías",
+    categoryColor: "bg-primary-700",
+    date: "20 Junio 2025",
+    readTime: "8 min",
+    image: "/images/guia-principiantes.jpg",
+    featured: false,
+    content: `
+<h2>Tu Primer Vaporizador: Empezamos</h2>
+<p>Comprar tu primer vaporizador es emocionante, pero puede ser abrumador. No te preocupes: en esta guía te llevo paso a paso desde sacar el dispositivo de la caja hasta disfrutar de tu primera sesión perfecta.</p>
+
+<h2>Paso 1 — Carga Completa la Batería</h2>
+<p>Antes de nada, <strong>carga tu vaporizador al 100%</strong>. Conecta el cable USB-C (la mayoría usan este conector hoy en día) y espera a que el LED indique carga completa. Suele tardar entre 1 y 2 horas la primera vez.</p>
+<blockquote>Consejo: Las primeras 3-5 cargas, intenta cargar hasta el 100% y descargar casi por completo. Esto "calibra" la batería y mejora su vida útil a largo plazo.</blockquote>
+
+<h2>Paso 2 — Muele tu Hierba</h2>
+<p>Usa un grinder (picador) para moler la hierba de forma uniforme. La consistencia ideal es similar al tabaco de liar — no demasiado fina (como polvo) ni demasiado gruesa (trozos grandes).</p>
+<ul>
+<li><strong>Demasiado fina:</strong> Obstruye el flujo de aire y puede pasar por el cedazo</li>
+<li><strong>Demasiado gruesa:</strong> El calor no penetra bien, sesiones irregulares</li>
+<li><strong>Perfecta:</strong> Textura uniforme, como café molido grueso</li>
+</ul>
+
+<h2>Paso 3 — Llena la Cámara</h2>
+<p>Abre la cámara de hierbas y llénala sin prensar demasiado. Un llenado suave y nivelado funciona mejor en la mayoría de modelos. No sobrecargues — dejar un pequeño espacio permite mejor flujo de aire.</p>
+
+<h2>Paso 4 — Elige la Temperatura</h2>
+<p>Para tu primera vez, te recomiendo empezar a <strong>180°C</strong>. Es una temperatura equilibrada que produce vapor suave con buen sabor. Una vez te sientas cómodo, puedes experimentar:</p>
+<ul>
+<li><strong>170°C:</strong> Vapor muy ligero, máximo sabor</li>
+<li><strong>180°C:</strong> Equilibrio perfecto para empezar</li>
+<li><strong>190°C:</strong> Vapor más denso</li>
+<li><strong>200°C:</strong> Para la segunda mitad de la sesión</li>
+</ul>
+
+<h2>Paso 5 — Calienta y Espera</h2>
+<p>Enciende el vaporizador (suele ser 3 o 5 clicks rápidos en el botón) y espera a que alcance la temperatura. La mayoría tardan entre 20 y 60 segundos. Muchos emiten una vibración cuando están listos.</p>
+
+<h2>Paso 6 — Tu Primera Calada</h2>
+<p>Aquí viene lo importante: <strong>no inhales como si fumaras</strong>. La técnica de vaporización es diferente:</p>
+<ul>
+<li>Inhala <strong>lenta y suavemente</strong> durante 5-10 segundos</li>
+<li>Mantén el vapor en la boca/labios, no necesitas tragarlo al fondo de los pulmones</li>
+<li>Suelta el aire suavemente</li>
+<li>Espera 10-20 segundos entre caladas</li>
+</ul>
+
+<h2>Paso 7 — Disfruta y Observa</h2>
+<p>Las primeras caladas tendrán un sabor dulce y herbal. A medida que avanza la sesión, el vapor será más denso pero el sabor más tostado. Cuando el sabor se vuelva plano o a "palomitas quemadas", la sesión ha terminado.</p>
+
+<h2>Errores Comunes de Principiantes</h2>
+<ul>
+<li><strong>Inhalar demasiado fuerte:</strong> El aire frío enfría la cámara y produce menos vapor</li>
+<li><strong>Temperatura demasiado alta al inicio:</strong> Quema el sabor rápidamente</li>
+<li><strong>No limpiar el dispositivo:</strong> Residuos acumulados estropean el sabor</li>
+<li><strong>No moler la hierba:</strong> Extracción irregular y desaprovechamiento</li>
+</ul>
+
+<blockquote>Paciencia. Las primeras sesiones son de aprendizaje. En 3-4 sesiones dominarás tu dispositivo completamente.</blockquote>
+    `,
+  },
+  {
+    id: "mejores-vaporizadores-baratos-100-euros",
+    title: "Los 5 Mejores Vaporizadores Baratos por Menos de 100€ en 2026",
+    excerpt:
+      "No necesitas gastar 300€ para tener un buen vaporizador. Estos 5 modelos demuestran que se puede vaporizar con calidad gastando menos de 100 euros.",
+    category: "Análisis",
+    categoryColor: "bg-blue-700",
+    date: "10 Junio 2025",
+    readTime: "10 min",
+    image: "/images/vaporizadores.jpg",
+    featured: false,
+    content: `
+<h2>Buenos Vaporizadores que no Rompen el Banco</h2>
+<p>Se suele pensar que para tener un buen vaporizador hay que gastar 250-400€. <strong>No es verdad.</strong> En 2026 hay opciones bajo 100€ que ofrecen un rendimiento sorprendente. Aquí tienes los 5 mejores.</p>
+
+<blockquote>Todos estos modelos se pueden encontrar en distribuidores europeos con garantía. Evita imitaciones baratas de sitios dudosos.</blockquote>
+
+<h2>1. XMAX V3 Pro — El Rey Económico (~80€)</h2>
+<p>El XMAX V3 Pro es, sin duda, el mejor vaporizador por menos de 100€. Ofrece calentamiento híbrido (convección + conducción), algo reservado normalmente a gamas altas.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Batería:</strong> Extraíble 18650 (puedes llevar recambios)</li>
+<li><strong>Modos:</strong> Sesión y On-Demand</li>
+<li><strong>USB-C:</strong> Sí</li>
+<li><strong>Precio:</strong> 70-95€</li>
+</ul>
+<p><strong>Por qué elegirlo:</strong> Dos modos de uso, batería reemplazable, vapor sorprendentemente bueno. El paquete completo por precio de entrada.</p>
+
+<h2>2. POTV XMAX Starry V4 (~99€)</h2>
+<p>El Starry V4 es el vaporizador de iniciación por excelencia. Pantalla LED con control de temperatura grado a grado, batería extraíble y cámara cerámica.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Conducción</li>
+<li><strong>Batería:</strong> Extraíble</li>
+<li><strong>Pantalla:</strong> LED con temperatura exacta</li>
+<li><strong>Precio:</strong> 85-99€</li>
+</ul>
+<p><strong>Por qué elegirlo:</strong> Facilísimo de usar, pantalla clara, batería que puedes cambiar. Ideal si es tu primer vaporizador.</p>
+
+<h2>3. XMAX Oont Pro (~50€)</h2>
+<p>¿El mejor vaporizador por 50€? Probablemente. Un botón, cinco temperaturas, carga USB-C y una calidad de vapor que no debería ser posible a este precio.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Conducción</li>
+<li><strong>Batería:</strong> ~10 sesiones por carga</li>
+<li><strong>Controles:</strong> Un solo botón</li>
+<li><strong>Precio:</strong> 40-55€</li>
+</ul>
+<p><strong>Por qué elegirlo:</strong> Precio imbatible, muy fácil de usar, sorprendentemente capaz. Perfecto para probar la vaporización sin compromiso.</p>
+
+<h2>4. DynaVap M7 (~65€)</h2>
+<p>Un vaporizador completamente diferente: no tiene batería. Se calienta con un mechero o un calentador de inducción. Es casi indestructible, ultraeficiente y produce un vapor excelente.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Externo (mechero/inducción)</li>
+<li><strong>Batería:</strong> No tiene — funciona siempre</li>
+<li><strong>Materiales:</strong> Acero inoxidable</li>
+<li><strong>Precio:</strong> 55-75€</li>
+</ul>
+<p><strong>Por qué elegirlo:</strong> Sin batería que se gaste, eficiencia máxima, tamaño de un rotulador.</p>
+
+<h2>5. Yocan Vane (~45€)</h2>
+<p>El más económico de la lista pero totalmente funcional. Cámara cerámica, temperatura ajustable y un tamaño perfecto para el bolsillo.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Convección</li>
+<li><strong>Batería:</strong> 1100mAh integrada</li>
+<li><strong>Pantalla:</strong> LED digital</li>
+<li><strong>Precio:</strong> 35-50€</li>
+</ul>
+<p><strong>Por qué elegirlo:</strong> El precio más bajo, convección real, muy compacto. Para saber si te gusta la vaporización antes de invertir más.</p>
+
+<h2>Tabla Comparativa Rápida</h2>
+<ul>
+<li><strong>XMAX V3 Pro</strong> — ~80€ — Híbrido — Batería extraíble — ⭐ Mejor overall barato</li>
+<li><strong>Starry V4</strong> — ~99€ — Conducción — Batería extraíble — ⭐ Mejor para principiantes</li>
+<li><strong>Oont Pro</strong> — ~50€ — Conducción — 10 sesiones — ⭐ Mejor ultra-barato</li>
+<li><strong>DynaVap M7</strong> — ~65€ — Externo — Sin batería — ⭐ Mejor sin batería</li>
+<li><strong>Yocan Vane</strong> — ~45€ — Convección — Integrada — ⭐ Más barato</li>
+</ul>
+
+<h2>Consejo Final</h2>
+<p>Si puedes estirar a ~80€, el <strong>XMAX V3 Pro</strong> es la mejor opción. Si tu presupuesto es muy ajustado, el <strong>Oont Pro</strong> o el <strong>Yocan Vane</strong> te permitirán disfrutar de la vaporización por menos de lo que cuesta una cena.</p>
+    `,
+  },
+  {
+    id: "mighty-plus-vs-venty",
+    title: "Mighty+ vs Venty: ¿Cuál es el Mejor Vaporizador de Storz & Bickel?",
+    excerpt:
+      "Los dos vaporizadores estrella de Storz & Bickel cara a cara. Analizamos diseño, calidad de vapor, batería, precio y te decimos cuál elegir según tu perfil.",
+    category: "Análisis",
+    categoryColor: "bg-blue-700",
+    date: "1 Junio 2025",
+    readTime: "12 min",
+    image: "/images/top10-2026.jpg",
+    featured: false,
+    content: `
+<h2>Duelo de Titanes Alemanes</h2>
+<p>Storz & Bickel es sinónimo de calidad en el mundo de la vaporización. El <strong>Mighty+</strong> lleva años siendo el rey, pero el <strong>Venty</strong> ha llegado para disputarle el trono. ¿Cuál es mejor? Depende de ti.</p>
+
+<h2>Diseño y Tamaño</h2>
+<h3>Mighty+</h3>
+<p>Forma rectangular con pantalla LED en la parte superior. Robusto y sólido, pero no discreto — mide 14 x 8 x 3 cm y pesa 135g.</p>
+<h3>Venty</h3>
+<p>Diseño más moderno y angular, con pantalla lateral. Algo más grande (16 x 8.5 x 4 cm, 170g) pero visualmente más actual.</p>
+<p><strong>Ganador:</strong> Empate. Depende del gusto personal.</p>
+
+<h2>Calidad de Vapor</h2>
+<p>Ambos usan calentamiento híbrido. El Mighty+ produce un vapor denso y consistente legendario. El Venty mejora el sistema y produce un vapor <strong>ligeramente superior</strong>, especialmente a temperaturas altas.</p>
+<p><strong>Ganador:</strong> Venty, por un margen pequeño.</p>
+
+<h2>Flujo de Aire</h2>
+<p>Aquí el Venty <strong>aplasta</strong> al Mighty+. Flujo regulable hasta 20 litros/minuto vs flujo fijo más restrictivo del Mighty+. Si te gustan las caladas generosas, el Venty es otra experiencia.</p>
+<p><strong>Ganador:</strong> Venty, por goleada.</p>
+
+<h2>Tiempo de Calentamiento</h2>
+<ul>
+<li><strong>Mighty+:</strong> ~60 segundos</li>
+<li><strong>Venty:</strong> ~20 segundos</li>
+</ul>
+<p><strong>Ganador:</strong> Venty. Tres veces más rápido.</p>
+
+<h2>Batería</h2>
+<ul>
+<li><strong>Mighty+:</strong> ~90 minutos de uso</li>
+<li><strong>Venty:</strong> ~80 minutos, pero con carga rápida USB-C (80% en 40 min)</li>
+</ul>
+<p><strong>Ganador:</strong> Mighty+ por duración, Venty por carga rápida.</p>
+
+<h2>Precio</h2>
+<ul>
+<li><strong>Mighty+:</strong> ~280-320€</li>
+<li><strong>Venty:</strong> ~380-420€</li>
+</ul>
+<p>El Venty es 80-100€ más caro. ¿Merece la pena? Depende de cuánto valores el flujo de aire regulable y el calentamiento rápido.</p>
+
+<h2>Veredicto Final</h2>
+<h3>Elige el Mighty+ si...</h3>
+<ul>
+<li>Quieres la mejor relación calidad-precio premium</li>
+<li>No te importa esperar 60 segundos</li>
+<li>Quieres algo más compacto y probado durante años</li>
+</ul>
+
+<h3>Elige el Venty si...</h3>
+<ul>
+<li>Quieres lo mejor de lo mejor sin importar el precio</li>
+<li>Valoras el flujo de aire generoso y regulable</li>
+<li>Quieres calentamiento ultrarrápido (20 segundos)</li>
+<li>Te gustan las caladas grandes y densas</li>
+</ul>
+
+<blockquote>Ambos son excelentes. No hay mala elección. Si el presupuesto te lo permite, el Venty es marginalmente superior. Si quieres ahorrar 100€ sin sacrificar mucho, el Mighty+ sigue siendo excepcional.</blockquote>
+    `,
+  },
+  {
+    id: "como-empezar-cbd-espana",
+    title: "Cómo Empezar con CBD en España: Guía para Principiantes 2026",
+    excerpt:
+      "Todo lo que necesitas saber para dar tus primeros pasos con CBD en España: qué es legal, qué productos existen, dónde comprar con garantías y cómo elegir la dosis correcta.",
+    category: "CBD",
+    categoryColor: "bg-emerald-700",
+    date: "25 Mayo 2025",
+    readTime: "11 min",
+    image: "/images/cbd.jpg",
+    featured: false,
+    content: `
+<h2>Tu Primera Vez con CBD</h2>
+<p>Si has oído hablar del CBD y quieres probar pero no sabes por dónde empezar, esta guía es para ti. Vamos a responder todas tus preguntas para que tu primera experiencia con CBD sea segura, legal y satisfactoria.</p>
+
+<h2>¿Qué es Exactamente el CBD?</h2>
+<p>El CBD (cannabidiol) es un compuesto natural presente en la planta de cáñamo. <strong>No es psicoactivo</strong> — no te coloca, no te altera, no genera dependencia. Es legal en la mayoría de países europeos cuando proviene de cáñamo con menos de 0.2% de THC.</p>
+
+<h2>¿Qué Efectos Tiene el CBD?</h2>
+<p>Cada persona experimenta el CBD de forma diferente, pero los efectos más reportados incluyen:</p>
+<ul>
+<li><strong>Relajación:</strong> Sensación de calma sin sedación</li>
+<li><strong>Mejor sueño:</strong> Facilidad para conciliar el sueño y dormir más profundamente</li>
+<li><strong>Alivio de tensión:</strong> Reducción de la sensación de estrés</li>
+<li><strong>Recuperación muscular:</strong> Popular entre deportistas post-entrenamiento</li>
+</ul>
+<blockquote>El CBD no es un medicamento. Si tienes una condición médica, consulta siempre con tu médico, especialmente si tomas otros medicamentos.</blockquote>
+
+<h2>¿Es Legal el CBD en España?</h2>
+<ul>
+<li><strong>Productos tópicos</strong> (cremas, bálsamos): Legal como cosmético</li>
+<li><strong>Flores de cáñamo</strong> (&lt;0.2% THC): Venta bajo normativa específica</li>
+<li><strong>Aceite de CBD oral:</strong> Regulación en evolución</li>
+<li><strong>Vaporización de CBD:</strong> Legal en espacio privado</li>
+</ul>
+
+<h2>Tipos de Productos de CBD</h2>
+<h3>Aceite Sublingual</h3>
+<p>El formato más popular. Se coloca bajo la lengua 60 segundos. Efecto en 15-45 minutos, dura 4-6 horas. Concentraciones de 5% a 30%.</p>
+
+<h3>Flores de CBD</h3>
+<p>Cogollos de cáñamo con alto CBD para vaporizar. Ofrecen el "efecto séquito" completo — la sinergia de todos los compuestos trabajando juntos.</p>
+
+<h3>Cápsulas</h3>
+<p>Dosificación precisa, sin sabor. Efecto en 1-2 horas, dura 6-8 horas. Ideal para rutinas diarias.</p>
+
+<h3>Tópicos</h3>
+<p>Cremas y bálsamos aplicados sobre la piel. Actúan localmente sin entrar al torrente sanguíneo.</p>
+
+<h2>La Regla de Oro del CBD</h2>
+<p><strong>Empieza poco, ve subiendo.</strong></p>
+<ul>
+<li><strong>Semana 1:</strong> 10-15mg de CBD al día</li>
+<li><strong>Semana 2:</strong> Si no notas efectos, sube a 20-25mg</li>
+<li><strong>Semana 3:</strong> Ajusta según tu respuesta personal</li>
+</ul>
+
+<h2>Dónde Comprar con Garantías</h2>
+<ul>
+<li>Exige <strong>análisis de laboratorio</strong> (certificado COA) de cada lote</li>
+<li>Verifica el <strong>contenido de THC</strong> (inferior al 0.2%)</li>
+<li>Busca <strong>información clara</strong> sobre concentración de CBD</li>
+<li>Prefiere <strong>origen europeo</strong> con trazabilidad</li>
+</ul>
+
+<blockquote>Desconfía de precios demasiado baratos o vendedores sin análisis. Tu salud y tu tranquilidad legal no merecen el riesgo.</blockquote>
+    `,
+  },
 ];
 
 export const legalDisclaimer = `⚠️ <strong>Aviso Legal:</strong> La información proporcionada en este blog tiene fines exclusivamente informativos y educativos. No pretende promover, incitar ni facilitar el consumo de sustancias ilegales. En España, el consumo de cannabis con fines recreativos está prohibido en espacios públicos y su posesión puede ser sancionada administrativamente. El CBD derivado de cáñamo industrial (&lt;0.2% THC) se encuentra dentro de un marco legal específico. Recomendamos siempre consultar la legislación vigente en tu comunidad autónoma y consultar con profesionales de la salud antes de consumir cualquier producto derivado del cannabis. La Ribera del Vapor no se responsabiliza del uso indebido de la información aquí publicada.`;

@@ -88,7 +88,7 @@ export default function App() {
       />
 
       {view === "post" && selectedPost ? (
-        <BlogPostView post={selectedPost} onBack={handleBack} />
+        <BlogPostView post={selectedPost} onBack={handleBack} onSelectPost={handleSelectPost} />
       ) : (
         <>
           {/* Hero */}
@@ -230,6 +230,40 @@ export default function App() {
               <p className="text-gray-600 text-xs mt-4">
                 Sin spam. Puedes darte de baja en cualquier momento. Respetamos tu privacidad.
               </p>
+            </div>
+          </section>
+
+          {/* About Section */}
+          <section className="py-20 bg-dark-800/30">
+            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+              <div className="flex flex-col md:flex-row gap-10 items-center">
+                <div className="flex-shrink-0">
+                  <div className="w-32 h-32 rounded-2xl bg-gradient-to-br from-primary-700 to-primary-900 flex items-center justify-center shadow-xl shadow-primary-900/30">
+                    <svg className="w-16 h-16 text-primary-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
+                    </svg>
+                  </div>
+                </div>
+                <div>
+                  <span className="text-primary-400 font-medium text-sm tracking-wider uppercase">Sobre mí</span>
+                  <h2 className="font-display text-2xl sm:text-3xl font-bold text-white mt-2 mb-4">
+                    ¿Quién escribe La Ribera del Vapor?
+                  </h2>
+                  <p className="text-gray-400 leading-relaxed mb-3">
+                    Soy un apasionado de la vaporización y la reducción de daños. Creé este blog porque cuando empecé 
+                    a interesarme por el tema, la información en español era escasa, confusa o directamente errónea.
+                  </p>
+                  <p className="text-gray-400 leading-relaxed mb-3">
+                    Aquí comparto mi experiencia personal tras años usando vaporizadores, investigando la ciencia 
+                    detrás de la planta y navegando el (a veces confuso) marco legal español. Todo el contenido es 
+                    honesto, independiente y no está patrocinado por ninguna marca.
+                  </p>
+                  <p className="text-gray-400 leading-relaxed">
+                    Mi compromiso es con <strong className="text-gray-200">la información veraz, el uso responsable 
+                    y el respeto absoluto a la legalidad vigente</strong>. Si tienes dudas, puedes contactarme siempre.
+                  </p>
+                </div>
+              </div>
             </div>
           </section>
 
