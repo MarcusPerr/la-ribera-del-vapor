@@ -22,6 +22,177 @@ export const categories = [
 
 export const posts: BlogPost[] = [
   {
+    id: "top-10-mejores-vaporizadores-2026",
+    title: "Top 10 Mejores Vaporizadores de Hierba Seca 2026: La Guía Definitiva",
+    excerpt:
+      "Ranking actualizado con los 10 mejores vaporizadores portátiles y de escritorio de 2026. Análisis detallado, precios, pros, contras y recomendación para cada perfil de usuario.",
+    category: "Análisis",
+    categoryColor: "bg-blue-700",
+    date: "15 Junio 2025",
+    readTime: "20 min",
+    image: "/images/top10-2026.jpg",
+    featured: true,
+    content: `
+<h2>Los Mejores Vaporizadores de 2026</h2>
+<p>Hemos testado, analizado y comparado decenas de modelos para presentarte el ranking definitivo de los <strong>10 mejores vaporizadores de hierba seca de 2026</strong>. Esta guía cubre desde opciones premium hasta las más asequibles, con precios actualizados para el mercado europeo.</p>
+
+<blockquote>Todos los precios indicados son aproximados y pueden variar según distribuidor y ofertas vigentes. Los precios están en euros para el mercado español/europeo.</blockquote>
+
+<h2>🥇 1. Storz & Bickel Venty — El Rey en 2026</h2>
+<p>El Venty se ha consolidado como el mejor vaporizador portátil del mercado. Fabricado por Storz & Bickel (los mismos del legendario Volcano), ofrece un rendimiento que roza la perfección.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido (convección + conducción)</li>
+<li><strong>Tiempo de calentamiento:</strong> ~20 segundos</li>
+<li><strong>Autonomía:</strong> 8-10 sesiones</li>
+<li><strong>Flujo de aire regulable:</strong> Hasta 20 litros/minuto</li>
+<li><strong>Precio:</strong> ~380-420€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Calidad de vapor excepcional, flujo de aire regulable, calentamiento ultrarrápido, Bluetooth con app.</p>
+<p><strong>Lo peor:</strong> Precio elevado, tamaño algo grande para el bolsillo.</p>
+<p><strong>Ideal para:</strong> Usuarios exigentes que buscan lo mejor sin importar el precio.</p>
+
+<h2>🥈 2. Storz & Bickel Mighty+ — El Todoterreno</h2>
+<p>El Mighty+ sigue siendo una referencia incombustible. Su calentamiento híbrido produce un vapor denso, suave y sabroso que pocos pueden igualar. La versión Plus añade USB-C y mejora la autonomía.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Tiempo de calentamiento:</strong> ~60 segundos</li>
+<li><strong>Autonomía:</strong> ~90 minutos</li>
+<li><strong>Pantalla LED:</strong> Sí, con control preciso de temperatura</li>
+<li><strong>Precio:</strong> ~280-320€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Fiabilidad legendaria, vapor consistente, facilidad de uso.</p>
+<p><strong>Lo peor:</strong> Tamaño considerable, diseño algo anticuado.</p>
+<p><strong>Ideal para:</strong> Usuarios que quieren potencia y fiabilidad sin complicaciones.</p>
+
+<h2>🥉 3. Volcano Hybrid — El Emperador de Escritorio</h2>
+<p>Si el tamaño no es un problema y buscas la máxima calidad de vapor posible, el Volcano Hybrid no tiene rival. Versión modernizada del clásico con conexión Bluetooth, app y sistema de globo + tubo (whip).</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Tiempo de calentamiento:</strong> ~45 segundos</li>
+<li><strong>Alimentación:</strong> Red eléctrica (uso ilimitado)</li>
+<li><strong>Sistema:</strong> Globo + whip incluidos</li>
+<li><strong>Precio:</strong> ~550-600€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Calidad de vapor insuperable, perfecto para compartir, construido para durar décadas.</p>
+<p><strong>Lo peor:</strong> Precio muy elevado, no portátil.</p>
+<p><strong>Ideal para:</strong> Uso doméstico, sesiones en grupo, pacientes terapéuticos.</p>
+
+<h2>4. Arizer Solo III — Sabor y Autonomía</h2>
+<p>La tercera generación del Solo es una evolución notable: calentamiento más rápido, mejor flujo de aire y la inconfundible calidad de vapor de Arizer con camino de vapor 100% de vidrio.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Convección</li>
+<li><strong>Tiempo de calentamiento:</strong> ~30 segundos</li>
+<li><strong>Autonomía:</strong> Hasta 4 horas (la mejor de su categoría)</li>
+<li><strong>Precio:</strong> ~220-260€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Autonomía inigualable, sabor puro por camino de vidrio, relación calidad-precio.</p>
+<p><strong>Lo peor:</strong> Tamaño algo alargado, las piezas de vidrio requieren cuidado.</p>
+<p><strong>Ideal para:</strong> Amantes del sabor, sesiones largas, uso diario.</p>
+
+<h2>5. Tinymight 2 — Potencia en Convección Pura</h2>
+<p>El Tinymight 2 es un vaporizador de convección pura "on-demand" fabricado a mano en Finlandia. Oficiente, potente y con un sabor extraordinario gracias a su camino de aire de vidrio y cerámica.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Convección pura on-demand</li>
+<li><strong>Tiempo de calentamiento:</strong> ~5 segundos</li>
+<li><strong>Autonomía:</strong> ~60 minutos (batería extraíble 18650)</li>
+<li><strong>Precio:</strong> ~280-320€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Sabor puro, calentamiento instantáneo, batería reemplazable, eficiencia extrema.</p>
+<p><strong>Lo peor:</strong> Curva de aprendizaje, frágil (vidrio), tamaño no ultraportátil.</p>
+<p><strong>Ideal para:</strong> Puristas del sabor, usuarios experimentados, amantes de la convección pura.</p>
+
+<h2>6. PAX Plus — Discreción y Diseño</h2>
+<p>El PAX Plus es el vaporizador más elegante y discreto de esta lista. Con cuatro modos de experiencia preconfigurados (Ejercicio, Social, Sigiloso, Terapéutico), elimina la complejidad sin renunciar a la calidad.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Conducción</li>
+<li><strong>Tiempo de calentamiento:</strong> ~20 segundos</li>
+<li><strong>Autonomía:</strong> ~90 minutos</li>
+<li><strong>Precio:</strong> ~180-220€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Ultracompacto, diseño premium, muy discreto, fácil de usar.</p>
+<p><strong>Lo peor:</strong> Calidad de vapor inferior a híbridos/convección, calentamiento por conducción.</p>
+<p><strong>Ideal para:</strong> Usuarios discretos, uso fuera de casa, principiantes que priorizan la discreción.</p>
+
+<h2>7. POTV Lobo — Mejor Relación Calidad-Precio Media</h2>
+<p>El Lobo de Planet of the Vapes es la revelación de la gama media. Ofrece rendimiento que rivaliza con vaporizadores mucho más caros: calentamiento híbrido, vapor fresco y sabroso, y accesorios de vidrio incluidos.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Tiempo de calentamiento:</strong> ~30 segundos</li>
+<li><strong>Autonomía:</strong> ~60 minutos (batería extraíble)</li>
+<li><strong>Precio:</strong> ~140-170€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Rendimiento premium a precio medio, batería reemplazable, accesorios de vidrio.</p>
+<p><strong>Lo peor:</strong> Piezas de vidrio menos portátiles, no se puede usar mientras carga.</p>
+<p><strong>Ideal para:</strong> Usuarios que quieren calidad sin gastar 300€+, primer vaporizador de calidad.</p>
+
+<h2>8. Crafty+ — Ultra-Portátil Premium</h2>
+<p>El hermano pequeño del Mighty+ ofrece la calidad Storz & Bickel en un formato mucho más compacto. Perfecto para quienes buscan la experiencia S&B pero necesitan algo realmente de bolsillo.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Tiempo de calentamiento:</strong> ~60 segundos</li>
+<li><strong>Autonomía:</strong> ~45 minutos</li>
+<li><strong>Precio:</strong> ~220-250€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Calidad de vapor premium en formato compacto, app Bluetooth.</p>
+<p><strong>Lo peor:</strong> Autonomía limitada, precio alto para el tamaño.</p>
+<p><strong>Ideal para:</strong> Usuarios que viajan, sesiones cortas de alta calidad.</p>
+
+<h2>9. XMAX V3 Pro — El Rey del Presupuesto</h2>
+<p>El XMAX V3 Pro demuestra que no necesitas gastar mucho para obtener un gran vaporizador. Con calentamiento híbrido, modo sesión y on-demand, batería reemplazable y USB-C, ofrece características de gamas superiores por una fracción del precio.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Híbrido</li>
+<li><strong>Tiempo de calentamiento:</strong> ~30 segundos</li>
+<li><strong>Autonomía:</strong> ~60 minutos (batería extraíble 18650)</li>
+<li><strong>Precio:</strong> ~70-95€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Relación calidad-precio inigualable, batería reemplazable, dos modos de uso.</p>
+<p><strong>Lo peor:</strong> Calidad de construcción más sencilla, sabor menos refinado.</p>
+<p><strong>Ideal para:</strong> Principiantes con presupuesto ajustado, segundo vaporizador, usuarios ocasionales.</p>
+
+<h2>10. DynaVap M7 — El Vaporizador Analógico</h2>
+<p>El DynaVap M7 es una experiencia única: un vaporizador sin batería que se calienta con cualquier fuente de calor (mechero, inducción). Minimalista, eficiente y casi indestructible. El séptimo迭代 de la saga M refina un diseño ya legendario.</p>
+<ul>
+<li><strong>Calentamiento:</strong> Conducción (fuente de calor externa)</li>
+<li><strong>Tiempo de calentamiento:</strong> ~5-10 segundos con mechero</li>
+<li><strong>Autonomía:</strong> Infinita (no tiene batería)</li>
+<li><strong>Precio:</strong> ~60-80€</li>
+</ul>
+<p><strong>Lo mejor:</strong> Sin batería, ultracompacto, eficiencia máxima, casi irrompible, precio genial.</p>
+<p><strong>Lo peor:</strong> Requiere técnica, necesita mechero/inducción, curva de aprendizaje.</p>
+<p><strong>Ideal para:</strong> Aventureros, uso al aire libre, complemento del vaporizador principal.</p>
+
+<h2>Tabla Comparativa Rápida</h2>
+<p>Aquí tienes un resumen de los 10 modelos para comparar de un vistazo:</p>
+<ul>
+<li><strong>Venty</strong> — ~400€ — Híbrido — Calentamiento: 20s — ⭐ Mejor portátil premium</li>
+<li><strong>Mighty+</strong> — ~300€ — Híbrido — Calentamiento: 60s — ⭐ Mejor todoterreno</li>
+<li><strong>Volcano Hybrid</strong> — ~575€ — Híbrido — Calentamiento: 45s — ⭐ Mejor escritorio</li>
+<li><strong>Arizer Solo III</strong> — ~240€ — Convección — Calentamiento: 30s — ⭐ Mejor autonomía</li>
+<li><strong>Tinymight 2</strong> — ~300€ — Convección pura — Calentamiento: 5s — ⭐ Mejor sabor</li>
+<li><strong>PAX Plus</strong> — ~200€ — Conducción — Calentamiento: 20s — ⭐ Mejor discreción</li>
+<li><strong>POTV Lobo</strong> — ~155€ — Híbrido — Calentamiento: 30s — ⭐ Mejor gama media</li>
+<li><strong>Crafty+</strong> — ~235€ — Híbrido — Calentamiento: 60s — ⭐ Mejor ultra-portátil</li>
+<li><strong>XMAX V3 Pro</strong> — ~80€ — Híbrido — Calentamiento: 30s — ⭐ Mejor presupuesto</li>
+<li><strong>DynaVap M7</strong> — ~70€ — Conducción — Calentamiento: 5s — ⭐ Mejor analógico</li>
+</ul>
+
+<h2>Nuestras Recomendaciones por Perfil</h2>
+<h3>Si es tu primer vaporizador</h3>
+<p>Te recomendamos el <strong>POTV Lobo</strong> o el <strong>XMAX V3 Pro</strong>. Ambos ofrecen una excelente experiencia de inicio sin gastar mucho.</p>
+
+<h3>Si buscas lo mejor de lo mejor</h3>
+<p>El <strong>Venty</strong> en portátil o el <strong>Volcano Hybrid</strong> en escritorio son las opciones definitivas.</p>
+
+<h3>Si priorizas el sabor</h3>
+<p>El <strong>Tinymight 2</strong> y el <strong>Arizer Solo III</strong> ofrecen la experiencia organoléptica más pura gracias a sus caminos de aire de vidrio.</p>
+
+<h3>Si tu presupuesto es ajustado</h3>
+<p>El <strong>XMAX V3 Pro</strong> es imbatible en relación calidad-precio. El <strong>DynaVap M7</strong> es una alternativa ingeniosa por incluso menos dinero.</p>
+
+<blockquote>Recuerda: Compra siempre en distribuidores autorizados para garantizar la autenticidad del producto y la cobertura de garantía. En España, verifica que el vendedor ofrezca garantía europea de 2 años.</blockquote>
+    `,
+  },
+  {
     id: "guia-principiantes-vaporizacion",
     title: "Guía para Principiantes: Todo lo que Necesitas Saber sobre la Vaporización de Hierbas Secas",
     excerpt:
